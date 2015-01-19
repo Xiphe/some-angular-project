@@ -1,0 +1,17 @@
+{
+  "name": "some-angular-project",
+  "version": "0.0.0",
+  "description": "Just a sandbox for angular stuff",
+  "homepage": "https://github.com/Xiphe/some-angular-project",
+  "main": "Gruntfile.js",
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "author": "Hannes Diercks <hi@xiphe.net>",
+  "license": "MIT",
+  "contributors": [],
+  "maintainers": []
+}

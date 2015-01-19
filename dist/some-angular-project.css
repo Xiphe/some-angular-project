@@ -1,0 +1,15 @@
+/*!
+ * some-angular-project v0.0.0
+ * https://github.com/Xiphe/some-angular-project
+ *
+ * Just a sandbox for angular stuff
+ *
+ * Copyright 2015, Hannes Diercks <hi@xiphe.net>
+ * Released under the MIT license
+ */
+[my-directive] {
+  background: blue;
+  height: 50px;
+  width: 50px;
+}
+/*# sourceMappingURL=dist/some-angular-project.css.map */
